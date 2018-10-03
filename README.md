@@ -11,3 +11,6 @@ https://github.com/zero-to-mastery/css-art
 https://github.com/zero-to-mastery/Halloween-Hacktoberfest
 
 Be sure to read the README files carefully to know more about each project, and how to contribute. Let's get everyone in the community to say that they have contributed to open source by the end of the month (employers love this)! Happy hacking!! Ps big high five to @Joy and the rest of the management team for making this one happen!
+
+## Update
+A lot of people have been participating in this challenge already. Make sure you check out the submissions in the above 2 links!
