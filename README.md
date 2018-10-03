@@ -1,4 +1,4 @@
-# coding_challenge-10
+# coding_challenge-10 ![Hacktoberfest](https://img.shields.io/badge/ZTM%20-HACKTOBERFEST-blue.svg?longCache=true&style=for-the-badge)
 
 This coding challenge is going to be a little fun one!
 
@@ -10,9 +10,15 @@ We think this is a great coding challenge for the ZTM community to participate i
 https://github.com/zero-to-mastery/css-art  
 https://github.com/zero-to-mastery/Halloween-Hacktoberfest  
 
-Be sure to read the README files carefully to know more about each project, and how to contribute. Let's get everyone in the community to say that they have contributed to open source by the end of the month (employers love this)! Happy hacking!! Ps big high five to @Joy and the rest of the management team for making this one happen!
+Be sure to read the README files carefully to know more about each project, and how to contribute. Let's get everyone in the community to say that they have contributed to open source by the end of the month (employers love this)! Happy hacking!! Ps big high five to @Joy and the rest of the management team for making this one happen! 
 
 ## Update
 A lot of people have been participating in this challenge already. Make sure you check out the submissions in the above 2 links!
+
+Don't forget to share your progress in the #Hacktoberfest Discord Channel! You could even send your stats link to the sumbmissions channel by entering the following command into #coding-challenge:
+(Make sure to replace <YOURHANDLE> with your GitHub user handle)
+```
+-challenge https://hacktoberfest.digitalocean.com/stats/<YOURHANDLE>
+```
 
 *** **Please note: As with all my challenges there is zero benefit or monetary gain I recieve from it. This is just my way of thanking my students and making sure that you are able to continue gaining valuable knowledge outside of just my videos. It would mean a lot to me if you are able to rate my course...5 star reviews make my day :)**
