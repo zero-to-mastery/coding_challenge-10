@@ -7,8 +7,8 @@ As some of you may know, Hacktoberfest is a month-long celebration of open-sourc
 
 We think this is a great coding challenge for the ZTM community to participate in, and have created two projects for Hacktoberfest. One of them is a website all about Halloween, and the other is a site for you to show off your skills with CSS! They are both beginner-friendly, and you can find them here - 
 
-https://github.com/zero-to-mastery/css-art
-https://github.com/zero-to-mastery/Halloween-Hacktoberfest
+https://github.com/zero-to-mastery/css-art  
+https://github.com/zero-to-mastery/Halloween-Hacktoberfest  
 
 Be sure to read the README files carefully to know more about each project, and how to contribute. Let's get everyone in the community to say that they have contributed to open source by the end of the month (employers love this)! Happy hacking!! Ps big high five to @Joy and the rest of the management team for making this one happen!
 
