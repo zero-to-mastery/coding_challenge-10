@@ -14,3 +14,5 @@ Be sure to read the README files carefully to know more about each project, and 
 
 ## Update
 A lot of people have been participating in this challenge already. Make sure you check out the submissions in the above 2 links!
+
+*** **Please note: As with all my challenges there is zero benefit or monetary gain I recieve from it. This is just my way of thanking my students and making sure that you are able to continue gaining valuable knowledge outside of just my videos. It would mean a lot to me if you are able to rate my course...5 star reviews make my day :)**
